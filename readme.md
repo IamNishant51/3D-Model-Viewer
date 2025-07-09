@@ -16,15 +16,15 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 
 ### 🚀 Skibidi Flying Saw
 
-## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/skibidi_flying_saw.mp4" width="500"></video>
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/assets/skibidi_flying_saw.mp4" width="500"></video>
 
 ### 🤖 Flying Robot
 
-## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/flying_robot.mp4" width="500"></video>
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/assets/flying_robot.mp4" width="500"></video>
 
 ### 👻 Monster Boss
 
-## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/flying_monster.mp4" width="500"></video>
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/assets/flying_monster.mp4" width="500"></video>
 
 ## ✨ Features
 
