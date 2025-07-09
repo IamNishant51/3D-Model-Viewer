@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  </head>
+  <body class="text-white">
+    <div class="main relative w-full ">
+      <!-- ✅ Improved Navbar -->
+      <nav class="fixed top-0 left-0 w-full z-[100] bg-black/30 backdrop-blur-lg shadow-md">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+          <h1 class="text-xl font-bold tracking-wide">MyPortfolio</h1>
+          <ul class="hidden md:flex gap-6 text-sm font-medium uppercase tracking-wide">
+            <li><a href="#" class="hover:text-cyan-400 duration-200">Home</a></li>
+            <li><a href="#" class="hover:text-cyan-400 duration-200">About</a></li>
+            <li><a href="#" class="hover:text-cyan-400 duration-200">Projects</a></li>
+            <li><a href="#" class="hover:text-cyan-400 duration-200">Contact</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <!-- Canvas Section -->
+      <div class="div w-full h-screen overflow-hidden ">
+        <canvas id="canvas"></canvas>
+      </div>
+
+      <!-- Below Section -->
+      <div class="w-full h-screen bg-transparent"></div>
+    </div>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>
