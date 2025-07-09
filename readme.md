@@ -12,22 +12,6 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 
 ---
 
-## 📸 Demo Videos
-
-### 🚀 Skibidi Flying Saw
-
-## <video autoplay loop muted src="https://github.com/user-attachments/assets/cd2e4e33-2220-4603-abf0-0b625cf85289
-" width="500"></video>
-
-### 🤖 Flying Robot
-
-## <video autoplay loop muted src="[https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/assets/flying_robot.mp4](https://github.com/user-attachments/assets/cd2e4e33-2220-4603-abf0-0b625cf85289
-)" width="500"></video>
-
-
-### 👻 Monster Boss
-
-## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/assets/flying_monster.mp4" width="500"></video>
 
 ## ✨ Features
 
