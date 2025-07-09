@@ -16,7 +16,7 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 
 ### 🚀 Skibidi Flying Saw
 
-## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/assets/skibidi_flying_saw.mp4" width="500"></video>
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/assets\skibidi_flying_saw.mp4" width="500"></video>
 
 ### 🤖 Flying Robot
 
@@ -38,3 +38,25 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 ---
 
 ## 📁 Folder Structure
+
+## Structure Explanation
+
+### Public Files
+
+- `public/` – Static files that are directly served to the browser
+  - `skibidi_flying_saw.glb` – 3D model
+  - `flying_robot.glb` – 3D model
+  - `flying_monster.glb` – 3D model
+  - `provence_studio_2k.exr` – HDRI map for lighting
+
+### Source Code
+
+- `src/`
+  - `main.js` – Main application logic: loads models, handles animation, rendering, and events
+  - `style.css` – Base styling for the canvas and layout
+
+### Configuration
+
+- `vite.config.js` – Vite build configuration
+- `package.json` – Project metadata and dependencies
+- `.gitignore` – Files and folders ignored by Git
