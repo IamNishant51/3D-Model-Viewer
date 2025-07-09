@@ -4,34 +4,27 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 
 ## 🖼️ Quick Preview
 
-| Model | Preview |
-|-------|---------|
-| Flying Skibidi  | ![Skibidi](assets/skibidi_flying_saw.png) |
-| Flying Robot | ![Robot](assets/flying_robot.png) |
-| Monster Boss | ![Boss](assets/monster_boss.png) |
-
+| Model          | Preview                                   |
+| -------------- | ----------------------------------------- |
+| Flying Skibidi | ![Skibidi](assets/skibidi_flying_saw.png) |
+| Flying Robot   | ![Robot](assets/flying_robot.png)         |
+| Monster Boss   | ![Boss](assets/monster_boss.png)          |
 
 ---
 
 ## 📸 Demo Videos
 
 ### 🚀 Skibidi Flying Saw
- 
-<video autoplay loop controls:Removed muted src="assets/skibidi_flying_saw.mp4" controls width="500"></video>
 
----
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/skibidi_flying_saw.mp4" width="500"></video>
 
 ### 🤖 Flying Robot
 
-<video autoplay loop controls:Removed muted src="assets/flying_robot.mp4" controls width="500"></video>
-
----
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/flying_robot.mp4" width="500"></video>
 
 ### 👻 Monster Boss
 
-<video autoplay loop controls:Removed muted src="assets/flying_monster.mp4" controls width="500"></video>
-
----
+## <video autoplay loop muted src="https://raw.githubusercontent.com/IamNishant51/3D-Model-Viewer/main/public/assets/flying_monster.mp4" width="500"></video>
 
 ## ✨ Features
 
@@ -45,4 +38,3 @@ A lightweight, responsive 3D model viewer built with **Three.js**, **GLTFLoader*
 ---
 
 ## 📁 Folder Structure
-
